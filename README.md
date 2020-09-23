@@ -5,9 +5,9 @@ I am married and have one duaghter.
 I have Advance Master degree in Gerontology in [VUB](https://www.vub.be/). I live with my family in Landen. 
 
 
-My hubbys are 
+__**My hubbys are**__ 
 
-swimming, 
-running,
-watching movies
-Reading books and newpapers.
+1. swimming, 
+2. running,
+3. watching movies
+4. Reading books and newpapers.
